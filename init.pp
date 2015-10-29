@@ -5,7 +5,7 @@
 # === Parameters
 #
 # [*catalina_home*]
-#   The base directory for the Tomcat installation
+#   The base directory for the Tomcat installation.
 #
 # [*user*]
 #   The user to run Tomcat as.
