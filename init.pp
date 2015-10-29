@@ -1,6 +1,6 @@
 # == Class: tomcat
 #
-# Class to manage installation and configuration of Tomcat.
+# Class to manage installation (Linux only) and configuration of Tomcat.
 #
 # === Parameters
 #
